@@ -1,0 +1,9 @@
+4 aim_NN
+4 characterize_VB
+4 investigate_VBD
+3 purpose_NN
+3 variety_NN
+3 whether_IN
+3 here_RB
+3 address_VBZ
+3 describe_VBP

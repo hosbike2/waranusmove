@@ -1,0 +1,145 @@
+significantly
+significantly_RB
+increased
+time
+significant
+significant_JJ
+time_NN
+within
+increased_VBD
+within_IN
+sensitivity
+accuracy
+contrast
+mean
+accuracy_NN
+contrast_NN
+sensitivity_NN
+addition
+average
+function
+pressure
+in contrast
+increased by
+up to
+addition_NN
+function_NN
+pressure_NN
+demonstrated
+due
+error
+as the
+due to
+to be
+functions
+levels
+osteogenic
+points
+produced
+regions
+scaffolds
+show
+showed
+specificity
+test
+value
+analysis
+anisotropy
+contractile
+analysis_NN
+anisotropy_NN
+due_JJ
+error_NN
+functions_NNS
+levels_NNS
+points_NNS
+produced_VBN
+regions_NNS
+scaffolds_NNS
+specificity_NN
+test_NN
+value_NN
+larger
+life
+matrix
+neural
+number
+parameters
+period
+rate
+reaction
+reconstructions
+respectively
+source
+strength
+stress
+thus
+transmural
+activation
+controls
+decreased
+differences
+dipole
+fatigue
+found
+gait
+contrast to
+effects on
+number of
+show that
+the number
+value of
+improved
+increase
+index
+activation_NN
+area_NN
+average_JJ
+controls_NNS
+demonstrated_VBD
+differences_NNS
+dipole_NN
+fatigue_NN
+imaging_VBG
+improved_VBN
+index_NN
+life_NN
+matrix_NN
+mean_NN
+ncat_NN
+neural_JJ
+number_NN
+parameters_NNS
+period_NN
+rate_NN
+reaction_NN
+reconstructions_NNS
+respectively._NNP
+show_NN
+showed_VBD
+source_NN
+strength_NN
+stress_NN
+thus_RB
+transmural_JJ
+however
+however_RB
+on the
+stimulation
+stimulation_NN
+results
+results_NNS
+compared to
+the results
+higher
+reduced
+demonstrate
+higher_JJR
+reduced_VBD
+to the
+also
+also_RB
+with the
+activity
+activity_NN
+simulated_VBN

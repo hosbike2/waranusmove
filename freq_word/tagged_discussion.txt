@@ -1,0 +1,16 @@
+5 conclude_VBP
+4 provide_VB
+4 demonstrate_VBP
+4 hrv_NNP
+4 conclusion_NN
+4 find_NNS
+3 signal_NN
+3 amfm_NNP
+3 autonomic_JJ
+3 decrease_NN
+3 feasibility_NN
+3 diagnosis_NN
+3 achieve_VBN
+3 nucleus_NN
+3 gene_NN
+3 scjd_NNP

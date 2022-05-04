@@ -1,0 +1,19 @@
+$(function(){
+	$('#myform').ajaxForm({
+		beforeSend:function(){
+			$('.progress').show();
+		},
+		uploadProgress:function(event,position,total,percentcomplete){
+			$(".progress-bar").width(percentcomplete+"%");
+			$('#msg').html(percentcomplete+"%");
+			if(percentcomplete==100){
+				alert("Complete");	
+			}
+		},
+		success:function(){
+			$('.progress').hide();
+		},
+		complete:function(){}
+	});
+	$('.progress').hide();
+});

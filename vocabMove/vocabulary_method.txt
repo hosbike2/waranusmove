@@ -1,0 +1,121 @@
+and the
+pulse stimulus
+node_NN
+were calculated
+vessels_NNS
+performed
+to a
+obtained_VBD
+located
+without_IN
+features
+patient_NN
+measurements
+on a
+fiber
+pulse_NN
+practice
+first
+four
+scanner_NN
+recorded
+from the
+using a
+stimulus_VBZ
+signals
+simulation
+obtained
+node
+weight_NN
+simulate
+two
+pump
+patient
+tested
+standard
+simulation_NN
+scanner
+target
+stimulus
+used_VBN
+performed_VBN
+super-resolution
+vessels
+with a
+pump_NN
+unloading
+without
+treatment
+group
+weight
+algorithm
+healthy
+artifact
+calculated_VBD
+treatment_NN
+heart
+copd_NN
+pulse
+calculated
+different_JJ
+phantom
+spike
+computer
+analyzed
+factors_NNS
+simulated
+training
+culture
+anisotropic
+first_RB
+blood
+days
+applied
+fully_RB
+classifier
+experimental
+cursor
+at the
+factors
+measurements_NNS
+motion
+different
+artifact_NN
+fully
+normal
+response
+based on
+computer_NN
+and a
+practice_NN
+well
+culture_NN
+and in
+recorded_VBN
+as well
+cursor_NN
+days_NNS
+by a
+spike_IN
+well as
+escs_NNS
+features_NNS
+model was
+super-resolution_NN
+motion_NN
+group_NN
+fiber_NN
+system was
+target_NN
+normal_JJ
+healthy_JJ
+target practice
+phantom_NN
+training_NN
+heart_NN
+the system
+response_NN
+investigated
+well_RB
+in a
+present
